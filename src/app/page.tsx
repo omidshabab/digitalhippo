@@ -54,6 +54,7 @@ export default function Home() {
                     {perk.description}
                   </p>
                 </div>
+
               </div>
             ))}
           </div>
